@@ -1,6 +1,7 @@
 # CoffeeMachine_lab3
 
 นางสาวภัทชราพร บุปผาสิงห์ 683450059-3
+
 classDiagram
     class CoffeeMachine {
         -int coffee
